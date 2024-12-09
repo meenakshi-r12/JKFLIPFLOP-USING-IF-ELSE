@@ -95,7 +95,9 @@ else
  end
 
  endmodule
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+
 Developed by:Meenakshi.R RegisterNumber:24003710
 */
 
